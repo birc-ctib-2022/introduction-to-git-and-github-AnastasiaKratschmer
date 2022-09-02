@@ -375,31 +375,3 @@ This all sounds terribly complicated, but it becomes second nature when you have
 ## Exercise 1:
 Write DONE on the last line. (This is currently the last line, so add a line below it; don't forget to add a newline after DONE.)
 DONE
-> git add README.md
-> git status
-On branch main
-Your branch is up to date with 'origin/main'.
-
-Changes to be committed:
-  (use "git restore --staged <file>..." to unstage)
-    modified:   README.md
-    > git commit -m "I wrote DONE at the end of README.md"
-    git status
-
-git commit -a -m "commit message"
-
-git add hello.txt
-
-DONE
-
-
-
-
-
-
-
-
-
-
-
-
